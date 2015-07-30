@@ -1,5 +1,5 @@
 La aplicación web de Andar  puede ser accedida desde cualquier navegador con una conexión a Internet.
-Para ingresar a la aplicación, el usuario deben registrarse. 
+Para ingresar a la aplicación, el usuario debe registrarse. 
 
 Para llevar a cabo el registro, el usuario debe llenar los siguientes campos de texto:
 
