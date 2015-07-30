@@ -3,4 +3,4 @@
  * [Registro de nuevo usuario](Registro de nuevo usuario)
  * [Inicio de Sesión   ](Inicio de Sesión   )
  * [Invitación a nuevo paciente](Invitación a nuevo paciente)
- * [Creación de un contacto paciente  ](Creación de contacto paciente  )
+ * [Creación de un contacto Paciente  ](Creación de contacto paciente  )
