@@ -12,3 +12,8 @@
     * Nuevo paciente
 
  * Paciente
+    * Cambiar contraseña
+    * Mi perfil
+    * Editar perfil
+    * Comprar tarjeta VIP
+    * Lista de pagos
