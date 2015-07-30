@@ -6,9 +6,9 @@
  * [Creación de un contacto Paciente](Creación de un contacto Paciente)
 * Guía de Uso
  * Administrador
-   * Cambiar contraseña
-   * Lista de usuarios
-   * Lista de pacientes
-   * Nuevo paciente
+    * Cambiar contraseña
+    * Lista de usuarios
+    * Lista de pacientes
+    * Nuevo paciente
 
  * Paciente
