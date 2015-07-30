@@ -7,12 +7,12 @@
 * Guía de Uso
  * Administrador
     * [Cambiar contraseña ](Cambiar contraseña )
-    * Lista de usuarios
-    * Lista de pacientes
-    * Nuevo paciente
+    * [Lista de usuarios ](Lista de usuarios )
+    * [Lista de pacientes ](Lista de pacientes )
+    * [Nuevo paciente ](Nuevo paciente )
  * Paciente
     * [Cambiar contraseña ](Cambiar contraseña )
-    * Mi perfil
-    * Editar perfil
-    * Comprar tarjeta VIP
-    * Lista de pagos
+    * [Mi perfil ](Mi perfil )
+    * [Editar perfil ](Editar perfil )
+    * [Comprar tarjeta VIP ](Comprar tarjeta VIP )
+    * [Lista de pagos ](Lista de pagos )
