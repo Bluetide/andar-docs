@@ -8,4 +8,8 @@ Para llevar a cabo el registro, el usuario debe llenar los siguientes campos de 
 * Contraseña.
 * Confirmar Contraseña.
 Al finalizar, presione el botón Enviar.
+
+<p align="center">
 ![Registro de Usuario](https://s3-us-west-2.amazonaws.com/andarwiki/registro.jpg)
+
+</p>
