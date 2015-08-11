@@ -1,1 +1,1 @@
-usuarios
+En esta sección, el administrador puede ver todos los usuarios registrados en el sistema, bien sean pacientes o administradores. El administrador puede presionar en la fila de cualquier usuario y esto le permitirá ver la información más detallada del usuario seleccionado.
