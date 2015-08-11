@@ -9,4 +9,4 @@ Para llevar a cabo el registro, el usuario debe llenar los siguientes campos de 
 * Confirmar Contraseña.
 Al finalizar, presione el botón Enviar.
 
-.center![Center-aligned image](https://s3-us-west-2.amazonaws.com/andarwiki/registro.jpg)
+.Center![Center-aligned image](https://s3-us-west-2.amazonaws.com/andarwiki/registro.jpg)
