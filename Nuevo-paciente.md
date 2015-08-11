@@ -1,1 +1,1 @@
-nuevo
+En esta sección el administrador podrá agregar a un nuevo paciente, añadiendo su correo electrónico y su nombre.
