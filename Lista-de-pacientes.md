@@ -4,4 +4,5 @@ Estados:
 * Normal
 * Atención Especial
 * Blacklist
+
 Si se desea mayor información sobre un paciente en específico, presione en el nombre que desee y esto lo llevará al perfil del paciente. 
