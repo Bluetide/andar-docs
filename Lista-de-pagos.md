@@ -1,1 +1,1 @@
-ldp
+El paciente podrá ver todos los pagos realizados desde sus inicios en Andar.
