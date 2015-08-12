@@ -9,4 +9,4 @@ Esta sección le permite al paciente realizar la compra de su tarjeta VIP, a con
 ![Compra 2/3](https://s3-us-west-2.amazonaws.com/andarwiki/comprarTarjeta2.jpg)
 
 * Por último, se encuentra la confirmación del pago. Una vez introducidos los datos de la tarjeta de crédito en el paso anterior al presionar siguiente se realizará el pago de su pedido.
-![Compra 3/3](https://s3-us-west-2.amazonaws.com/andarwiki/comprarTarjeta3.jpg)
+![Compra 3/3](https://s3-us-west-2.amazonaws.com/andarwiki/comprarTarjeta3.jpg) 
