@@ -6,13 +6,15 @@
  * [Creación de un contacto Paciente](Creación de un contacto Paciente)
 * Guía de Uso
  * Administrador
-    * [Cambiar contraseña ](Cambiar contraseña )
+    * [Cambiar contraseña ]Contraseña )
     * [Lista de usuarios ](Lista de usuarios )
     * [Lista de pacientes ](Lista de pacientes )
     * [Nuevo paciente ](Nuevo paciente )
  * Paciente
-    * [Cambiar contraseña ](Cambiar contraseña )
-    * [Mi perfil ](Mi perfil )
+    * [Cambiar contraseña ](Contraseña )
     * [Editar perfil ](Editar perfil )
+    * [Mi perfil ](Mi perfil )
     * [Comprar tarjeta VIP ](Comprar tarjeta VIP )
+    * [Comprar tarjeta VIP ](Agendar )
     * [Lista de pagos ](Lista de pagos )
+    * [Comprar tarjeta VIP ](Todas mis Citas )
