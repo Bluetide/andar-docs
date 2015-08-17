@@ -1,1 +1,3 @@
 En esta sección el paciente podrá modificar sus datos personales. En esta sección el paciente también puede cancelar su cuenta. Una vez realizada esta acción el usuario no podrá acceder a menos que vuelva a registrarse. Esta sección está orientada a mantenimiento de seguridad de la información de los usuarios más que todo.
+
+![editar perfil usuario](https://s3-us-west-2.amazonaws.com/andarwiki/editar_perfil.jpg)
