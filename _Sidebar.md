@@ -2,15 +2,16 @@
 * Acceso a la Aplicación
  * [Registro de nuevo usuario](Registro de nuevo usuario)
  * [Inicio de Sesión   ](Inicio de Sesión   )
- * [Invitación a nuevo paciente](Invitación a nuevo paciente)
- * [Creación de un contacto Paciente](Creación de un contacto Paciente)
- * [Crear cuenta a Paciente Registrado](Crear cuenta a Paciente Registrado)
+
 * Guía de Uso
  * Administrador
     * [Contraseña ](Contraseña )
     * [Lista de usuarios ](Lista de usuarios )
     * [Lista de pacientes ](Lista de pacientes )
     * [Nuevo paciente ](Nuevo paciente )
+    * [Invitación a nuevo paciente](Invitación a nuevo paciente)
+    * [Creación de un contacto Paciente](Creación de un contacto Paciente)
+    * [Crear cuenta a Paciente Registrado](Crear cuenta a Paciente Registrado)
  * Paciente
     * [Contraseña ](Contraseña )
     * [Editar perfil ](Editar perfil )
