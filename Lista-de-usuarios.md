@@ -2,6 +2,6 @@ En esta sección, el administrador puede ver todos los usuarios registrados en e
 
 ![Lista de usuarios](https://s3-us-west-2.amazonaws.com/andarwiki/lista+de+usuarios.png)
 
-Información adicional al presionar el nombre del usuario
+Detalle al presionar el nombre del usuario
 
-![información usuario](https://s3-us-west-2.amazonaws.com/andarwiki/info_usuario.jpg)
+![información usuario](https://s3-us-west-2.amazonaws.com/andarwiki/detalle+usuario.png)
