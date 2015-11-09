@@ -1,1 +1,3 @@
 En esta parte el administrador puede verificar por defecto las citas pautadas para el día actual, el siguiente y pasado el siguiente pero también puede filtrar por una fecha deseada y a continuación se mostraran las citas pendientes y el estatus de las mismas incluyendo si han sido ejecutadas, canceladas o están todavía agendadas entre otros.
+
+![agenda](https://s3-us-west-2.amazonaws.com/andarwiki/agenda.png)
