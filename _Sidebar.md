@@ -4,7 +4,7 @@
  * [Inicio de Sesión   ](Inicio de Sesión   )
  * [Invitación a nuevo paciente](Invitación a nuevo paciente)
  * [Creación de un contacto Paciente](Creación de un contacto Paciente)
- * []()
+ * [Crear cuenta a Paciente Registrado](Crear cuenta a Paciente Registrado)
 * Guía de Uso
  * Administrador
     * [Contraseña ](Contraseña )
